@@ -26,7 +26,7 @@ I'm a technology enthusiast with experience in web development, currently locate
 👤 **Following:** 1  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moisesisaiaso&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesisaiaso_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesisaiaso&hide_progress=false)
 
 ## Recent Activity
 

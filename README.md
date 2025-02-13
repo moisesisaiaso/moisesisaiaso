@@ -23,6 +23,7 @@ I'm a technology enthusiast with experience in web development, currently locate
 🏆 **Public Repositories:** 40  
 👥 **Followers:** 1  
 👤 **Following:** 1  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moisesisaiaso&show_icons=true&theme=radical)
 
 ## Recent Activity
@@ -40,7 +41,8 @@ No recent blog posts available at the moment. Stay tuned!
 
 ## Connect with Me
 
-{ Email: moisesisaias98@gmail.com }
+Email: moisesisaias98@gmail.com 
+phone: +593 0969718160
 
 ## Certifications
 

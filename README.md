@@ -40,7 +40,7 @@ No recent blog posts available at the moment. Stay tuned!
 
 ## Connect with Me
 
-{}
+{ Email: moisesisaias98@gmail.com }
 
 ## Certifications
 

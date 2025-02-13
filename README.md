@@ -8,7 +8,7 @@ I'm a technology enthusiast with experience in web development, currently locate
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,yarn,nodejs,express,mysql,postgres,postman,git,laravel)](https://skillicons.dev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesisaiaso&hide_progress=true)
+
 
 
 ## Top Projects
@@ -26,6 +26,7 @@ I'm a technology enthusiast with experience in web development, currently locate
 👤 **Following:** 1  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moisesisaiaso&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesisaiaso_progress=true)
 
 ## Recent Activity
 

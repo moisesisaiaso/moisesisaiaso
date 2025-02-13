@@ -8,6 +8,7 @@ I'm a technology enthusiast with experience in web development, currently locate
 
 ## Skills & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,yarn,nodejs,express,mysql,postgres,postman,git,laravel)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesisaiaso&hide_progress=true)
 
 
 ## Top Projects

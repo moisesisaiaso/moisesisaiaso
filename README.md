@@ -7,8 +7,8 @@ I'm Moisés Isaías Ortíz Gracia, a passionate web developer from Ecuador, with
 I'm a technology enthusiast with experience in web development, currently located in Ecuador. I enjoy creating responsive and dynamic applications that enhance user experiences. You can check out my portfolio [here](https://maquetacion-portafolio.netlify.app).
 
 ## Skills & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-html,css,js,react,yarn,nodejs,express,mysql,postgres,postman,git,laravel
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,yarn,nodejs,express,mysql,postgres,postman,git,laravel)](https://skillicons.dev)
+
 
 ## Top Projects
 
